@@ -1,0 +1,47 @@
+[
+  {
+    "grouping": "Architecture",
+    "skills": [
+      "IP Networking",
+      "DNS",
+      "Firewalls",
+      "Load Balancing",
+      "Microservices",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "Go",
+      "Java",
+      "Python",
+      "git",
+      "Linux",
+      "javascript"
+    ]
+  },
+  {
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      "NGINX",
+      "GitHub"
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Redis"
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      "Docker",
+      "AWS",
+      "Linux"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+title = "Harlan Sun"
+baseURL = "/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Roy, Utah"
+email = "harlan.sun23@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Harlan"
+lastName = "Sun"
+phone = "1-408-639-9246"
+profileImage = "img/profilePic.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showCertification = false
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = ""
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/harlan-sun/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/thexe23"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://leetcode.com/TheXe/"
+name = "Leetcode"
+icon = "codepen"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
